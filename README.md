@@ -1,4 +1,4 @@
 # SAS
 Sample SAS Code
 
-Check out my website www.thearcadio.com for more information about me, including my current certifications.
+To verify my SAS credentials visit https://www.certmetrics.com/SAS/public/verification.aspx and use certificate verification number Y5EFV7VK21FEQKGT
