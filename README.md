@@ -1,4 +1,3 @@
-# SAS
 <h1> Sample SAS Code </h1>
 <p> Check out some of my sample SAS code, more to come so check back often! </p>
 
