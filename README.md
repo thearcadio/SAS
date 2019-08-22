@@ -6,5 +6,5 @@
 <h3> Certificate Verification Numbers: </h3>
 <ul>
   <li> Base Certification:     Y5EFV7VK21FEQKGT </li>
-  <li> Advanced Certification: PENDING </li>
+  <li> Advanced Certification: 4KYJCSH1C1RE1CW7 </li>
 <ul>
