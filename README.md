@@ -1,5 +1,5 @@
 <h1> Sample SAS Code </h1>
-<p> Check out some of my sample SAS code, more to come so check back often! </p>
+<p> Check out some of my sample SAS code, more to come so check back often! Please reach out if you have any questions. </p>
 
 <h2> SAS Certifications </h2>
 <p> To verify my SAS credentials visit https://www.certmetrics.com/SAS/public/verification.aspx. </p>
